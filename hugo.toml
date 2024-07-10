@@ -1,0 +1,6 @@
+baseURL = 'https://micromobility.nyc/'
+languageCode = 'en-us'
+title = 'Micromobility NYC'
+theme ='ananke' 
+ 
+ 
